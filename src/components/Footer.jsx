@@ -49,7 +49,7 @@ const Footer = () => {
 
 			<div className="relative flex justify-center items-center my-2.5 mx-0 flex-wrap">
 				<a
-					href="https://github.com/gateremark"
+					href="https://github.com/Willy-Angole/RelyHomes.git"
 					className="text-[#e2e2e2] text-3xl my-0 mx-[10px] inline-block transition duration-500 ease-in-out hover:translate-y-[-10px] cursor-pointc"
 					target="_blank"
 					rel="noreferrer"
@@ -58,7 +58,7 @@ const Footer = () => {
 					<IoLogoGithub />{" "}
 				</a>
 				<a
-					href="https://twitter.com/gatere_mark"
+					href="https://x.com/willy023297825?s=21"
 					className="text-[#e2e2e2] text-3xl my-0 mx-[10px] inline-block transition duration-500 ease-in-out hover:translate-y-[-10px] cursor-pointc"
 					target="_blank"
 					rel="noreferrer"
@@ -67,7 +67,7 @@ const Footer = () => {
 					<IoLogoTwitter />{" "}
 				</a>
 				<a
-					href="https://www.linkedin.com/in/gateremark/"
+					href="https://www.linkedin.com/in/willy-angole-079666238?"
 					className="text-[#e2e2e2] text-3xl my-0 mx-[10px] inline-block transition duration-500 ease-in-out hover:translate-y-[-10px] cursor-pointc"
 					target="_blank"
 					rel="noreferrer"
@@ -76,7 +76,7 @@ const Footer = () => {
 					<IoLogoLinkedin />{" "}
 				</a>
 				<a
-					href="https://www.instagram.com/gateremark/"
+					href="https://www.instagram.com/technomadceo?"
 					className="text-[#e2e2e2] text-3xl my-0 mx-[10px] inline-block transition duration-500 ease-in-out hover:translate-y-[-10px] cursor-pointc"
 					target="_blank"
 					rel="noreferrer"
@@ -115,15 +115,15 @@ const Footer = () => {
 			</ul>
 			<Greetings />
 			<p className="mt-4 mb-10 text-base text-[#ffffff] text-center">
-				&copy; 2023 HomeTopia | All Rights Reserved | by{" "}
+				&copy; 2025 HomeTopia | All Rights Reserved | by{" "}
 				<span className="hover:text-[#001f41] transition duration-300 ease-in-out">
 					{" "}
 					<a
-						href="https://bit.ly/gatere"
+						href="https://angole-me.vercel.app/"
 						target="_blank"
 						rel="noreferrer"
 					>
-						@gateremark
+						@Willy Angole
 					</a>{" "}
 				</span>
 			</p>

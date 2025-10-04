@@ -142,7 +142,7 @@ const Navbar = () => {
 						)}
 						<li className="py-4">
 							<a
-								href="https://github.com/gateremark/hometopia"
+								href="https://github.com/Willy-Angole/RelyHomes.git"
 								className={`cursor-pointc text-xl font-semibold  items-center  transition duration-500 ease-in-out focus:outline-none focus:ring-offset-2 ${
 									!darkMode
 										? "text-[#024] hover:text-[#18C7FA]"
